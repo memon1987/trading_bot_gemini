@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Required for Google Cloud Functions framework
+functions-framework==3.*
+
+# Required for Alpaca Trading API
+alpaca-trade-api==3.1.1
